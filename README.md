@@ -12,5 +12,11 @@ A data pipeline is a method in which raw data is ingested from various data sour
  ## Steps
  The data from the TMX file is extracted and stored in a pandas DataFrame.
  For connecting  the dataset to a relational database use the necessary module, connect and store the  parallel translation between  English and Arabic.
+
+ ## Conculsion
+ Extracted the data from the TMX file and transformed it into source and target column and stored it in a dataframe.
+ Connected the raw data with MYSQL database and the data flows to the data repository in the database.
+ 
+ 
  
  
